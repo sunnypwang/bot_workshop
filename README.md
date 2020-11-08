@@ -7,7 +7,7 @@ First, let's create an environment where we will install all dependencies needed
 For Anaconda, use the following command to create an environment called `workshop` (you can change this) and install necessary libralies.
 
 ```
-conda create --name workshop python=3.7 tensorflow pandas matplotlib sklearn jupyterlab
+conda create --name workshop python=3.7 tensorflow pandas matplotlib scikit-learn jupyterlab
 ```
 This will install Python 3.7 (Tensorflow 2 requires Python<3.8), Tensorflow 2 for deep learning implementation, pandas for data structure management, Matplotlib for visualization, Scikit-learn for mathematical tools, and Jupyter Lab for running Notebooks.
 
