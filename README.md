@@ -1,6 +1,18 @@
 # Bank of Thailand Workshop
+## Slides
+See folder `slides`
+## Setup Day 2
+**Important** Please make sure to complete Setup Day 1 before proceeding.
 
-## Setup
+From within the environment, install all dependencies.
+```
+pip install xgboost
+pip install opencv-python
+pip install shap
+```
+
+For Lab 3, please manually download and extract all zip files in `home` folder to `/home` relative to your local working directory 
+## Setup Day 1
 
 First, let's create an environment where we will install all dependencies needed for this workshop.
 
